@@ -1,3 +1,1 @@
-onerahmet/openai-whisper-asr-webservice
-ghcr.io/open-webui/open-webui:main
-portainer/portainer-ce:latest
+cooderl/wewe-rss-sqlite:latest
