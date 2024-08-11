@@ -1,1 +1,1 @@
-hsuyelin/nas-tools:latest
+ghcr.io/chevereto/chevereto:latest
