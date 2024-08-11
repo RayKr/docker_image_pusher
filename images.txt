@@ -1,1 +1,1 @@
-ghcr.io/chevereto/chevereto:latest
+mariadb:jammy
